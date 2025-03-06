@@ -1,0 +1,23 @@
+Country,CountryName,Currency
+US,United States,USD
+AU,Australia,AUD
+AT,Austria,EUR
+BE,Belgium,EUR
+CA,Canada,CAD
+CH,Switzerland,CHE
+CZ,Czech Republic,CZK
+DE,Germany,EUR
+DN,Denmark,DKK
+ES,Spain,EUR
+FI,Finland,EUR
+FR,France,EUR
+GB,Great Britain,GBP
+IE,Ireland,EUR
+IT,Italy,EUR
+LU,Luxembourg,EUR
+NO,Norway,NOK
+NL,Netherlands,EUR
+NZ,New Zealand,NZD
+PL,Poland,PLN
+PT,Portugal,EUR
+CH ,,

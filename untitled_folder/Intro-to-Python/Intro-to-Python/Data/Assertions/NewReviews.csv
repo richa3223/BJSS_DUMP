@@ -1,0 +1,745 @@
+ProdID,ReviewDifficulty
+630,Very Easy
+2304,Easy
+7280,Very Easy
+7281,Very Easy
+7499,Easy
+7895,Very Easy
+8293,Easy
+9843,Very Easy
+10214,Challenging
+10220,Challenging
+10242,Average
+10243,Challenging
+10246,Challenging
+10247,Challenging
+10249,Average
+10251,Challenging
+10252,Average
+10253,Challenging
+10254,Average
+10255,Challenging
+10256,Challenging
+10257,Challenging
+10258,Average
+10259,Average
+10260,Challenging
+10507,Easy
+10508,Average
+10572,Very Easy
+10590,Easy
+10592,Very Easy
+10597,Easy
+10607,Easy
+10608,Average
+10615,Very Easy
+10616,Easy
+10687,Very Easy
+10692,Easy
+10693,Easy
+10694,Easy
+10696,Easy
+10698,Easy
+10699,Very Easy
+10700,Very Easy
+10701,Very Easy
+10703,Average
+10706,Very Easy
+10707,Average
+10708,Easy
+10709,Easy
+10713,Very Easy
+10714,Very Easy
+10723,Easy
+10725,Very Easy
+10726,Very Easy
+10730,Very Easy
+10731,Easy
+10733,Easy
+10735,Easy
+10736,Average
+10737,Easy
+10738,Average
+10739,Easy
+10740,Easy
+10742,Easy
+10743,Easy
+10744,Average
+10745,Challenging
+10746,Easy
+10747,Average
+10748,Very Easy
+10753,Easy
+10759,Very Easy
+10761,Very Easy
+10801,Easy
+10804,Easy
+10805,Easy
+10808,Very Easy
+10809,Easy
+10812,Average
+10813,Average
+10816,Easy
+10820,Very Easy
+10822,Very Easy
+10823,Average
+10827,Very Easy
+10833,Average
+10834,Average
+10837,Easy
+10838,Very Easy
+10840,Easy
+10845,Average
+10846,Easy
+10847,Easy
+10850,Easy
+10852,Very Easy
+10856,Easy
+10857,Easy
+10878,Very Easy
+17101,Average
+21019,Average
+21028,Average
+21029,Average
+21030,Average
+21032,Easy
+21033,Average
+21034,Average
+21035,Challenging
+21036,Average
+21039,Average
+21119,Average
+21121,Average
+21122,Easy
+21123,Easy
+21124,Average
+21125,Average
+21126,Average
+21129,Average
+21130,Easy
+21134,Average
+21135,Challenging
+21136,Easy
+21137,Challenging
+21138,Easy
+21140,Average
+21141,Average
+21143,Average
+21144,Easy
+21307,Average
+21308,Easy
+21309,Challenging
+21310,Average
+21312,Easy
+21313,Average
+21314,Easy
+31029,Average
+31035,Easy
+31043,Easy
+31046,Average
+31047,Average
+31049,Average
+31051,Average
+31052,Average
+31056,Easy
+31057,Easy
+31058,Easy
+31059,Average
+31062,Average
+31063,Average
+31064,Average
+31066,Easy
+31067,Average
+31068,Average
+31069,Average
+31070,Average
+31071,Average
+31073,Easy
+31074,Easy
+31075,Easy
+31076,Average
+31079,Easy
+31080,Easy
+31081,Average
+31313,Challenging
+40171,Average
+40270,Easy
+40271,Easy
+40307,Easy
+40388,Easy
+41066,Easy
+41123,Easy
+41124,Average
+41126,Average
+41127,Average
+41128,Average
+41130,Average
+41132,Easy
+41134,Easy
+41142,Very Easy
+41145,Average
+41146,Average
+41147,Easy
+41148,Average
+41149,Challenging
+41150,Easy
+41151,Average
+41152,Easy
+41153,Average
+41154,Challenging
+41181,Easy
+41182,Average
+41183,Average
+41185,Average
+41186,Average
+41187,Average
+41190,Easy
+41191,Average
+41192,Average
+41193,Average
+41230,Easy
+41231,Average
+41232,Average
+41233,Average
+41234,Average
+41237,Average
+41302,Easy
+41306,Easy
+41310,Easy
+41311,Easy
+41312,Average
+41313,Easy
+41314,Average
+41315,Easy
+41316,Easy
+41317,Challenging
+41318,Average
+41319,Easy
+41322,Average
+41323,Average
+41324,Average
+41325,Challenging
+41326,Easy
+41327,Average
+41328,Easy
+41329,Easy
+41334,Average
+41335,Challenging
+41336,Average
+41338,Average
+41340,Average
+41485,Easy
+41486,Very Easy
+41487,Easy
+41488,Very Easy
+41585,Very Easy
+41586,Easy
+41587,Very Easy
+41588,Easy
+41590,Easy
+41591,Easy
+41592,Easy
+41593,Easy
+41594,Very Easy
+41595,Easy
+41596,Average
+41597,Average
+41598,Very Easy
+41599,Easy
+41600,Very Easy
+41601,Easy
+41602,Easy
+41603,Easy
+41604,Average
+41605,Easy
+41606,Easy
+41608,Very Easy
+41609,Very Easy
+41611,Easy
+41613,Very Easy
+41614,Easy
+42031,Easy
+42032,Average
+42033,Easy
+42036,Average
+42037,Average
+42039,Challenging
+42044,Average
+42045,Easy
+42049,Average
+42052,Challenging
+42053,Average
+42054,Challenging
+42055,Challenging
+42056,Challenging
+42057,Easy
+42058,Easy
+42059,Easy
+42060,Easy
+42061,Average
+42062,Easy
+42063,Average
+42064,Challenging
+42065,Easy
+42066,Challenging
+42068,Average
+42069,Average
+42070,Challenging
+42071,Challenging
+42073,Easy
+42074,Average
+42075,Easy
+42076,Average
+42077,Average
+42078,Average
+42084,Easy
+45500,Average
+45501,Very Easy
+45503,Easy
+45504,Challenging
+45506,Very Easy
+45508,Average
+45517,Very Easy
+60051,Average
+60052,Average
+60100,Very Easy
+60101,Easy
+60106,Easy
+60107,Easy
+60108,Average
+60109,Easy
+60110,Average
+60117,Easy
+60119,Easy
+60120,Easy
+60121,Easy
+60122,Average
+60123,Easy
+60124,Average
+60125,Average
+60129,Easy
+60134,Very Easy
+60135,Very Easy
+60136,Easy
+60137,Easy
+60138,Average
+60139,Easy
+60140,Easy
+60141,Easy
+60142,Easy
+60145,Very Easy
+60146,Easy
+60148,Easy
+60150,Easy
+60153,Very Easy
+60154,Easy
+60155,Easy
+60156,Easy
+60157,Easy
+60158,Average
+60159,Easy
+60160,Average
+60161,Average
+60162,Average
+60163,Very Easy
+60164,Easy
+60165,Very Easy
+60166,Challenging
+60167,Average
+60169,Average
+60170,Very Easy
+60173,Average
+60174,Average
+60176,Easy
+60177,Easy
+60178,Easy
+60179,Easy
+60180,Average
+60181,Easy
+60182,Easy
+60183,Easy
+60184,Very Easy
+60185,Easy
+60186,Average
+70313,Average
+70317,Challenging
+70321,Challenging
+70322,Average
+70337,Easy
+70338,Very Easy
+70339,Very Easy
+70348,Very Easy
+70349,Average
+70350,Average
+70352,Average
+70355,Average
+70357,Challenging
+70358,Average
+70359,Easy
+70364,Very Easy
+70372,Very Easy
+70592,Average
+70601,Easy
+70603,Average
+70605,Average
+70606,Easy
+70607,Easy
+70608,Easy
+70609,Easy
+70610,Average
+70611,Average
+70612,Average
+70613,Average
+70614,Average
+70615,Average
+70616,Average
+70617,Average
+70618,Challenging
+70620,Challenging
+70621,Easy
+70623,Average
+70624,Average
+70628,Very Easy
+70629,Easy
+70631,Average
+70632,Average
+70635,Very Easy
+70637,Easy
+70638,Average
+70639,Average
+70641,Challenging
+70642,Average
+70643,Average
+70656,Average
+70751,Challenging
+70900,Easy
+70901,Easy
+70902,Easy
+70903,Easy
+70904,Average
+70905,Average
+70906,Average
+70907,Easy
+70908,Average
+70909,Average
+70910,Average
+70911,Easy
+70912,Average
+70913,Easy
+70914,Average
+70915,Average
+70916,Average
+70917,Average
+70919,Easy
+70920,Average
+70921,Average
+70922,Challenging
+70923,Average
+71018,Very Easy
+71019,Very Easy
+71020,Very Easy
+71021,Very Easy
+71040,Challenging
+71042,Average
+71171,Average
+71203,Average
+71217,Easy
+71218,Easy
+71221,Easy
+71228,Easy
+71229,Easy
+71232,Average
+71234,Easy
+71235,Average
+71238,Easy
+71240,Easy
+71242,Average
+71245,Very Easy
+71246,Easy
+71247,Easy
+71248,Easy
+71251,Easy
+71255,Easy
+71264,Easy
+71266,Average
+71267,Average
+71286,Easy
+71343,Easy
+71344,Average
+71348,Very Easy
+71349,Easy
+72002,Easy
+72004,Average
+72006,Challenging
+75060,Challenging
+75095,Average
+75099,Easy
+75102,Average
+75104,Average
+75107,Easy
+75109,Easy
+75111,Average
+75114,Very Easy
+75116,Easy
+75117,Easy
+75118,Easy
+75119,Average
+75120,Easy
+75121,Easy
+75125,Easy
+75126,Easy
+75128,Easy
+75131,Very Easy
+75132,Very Easy
+75139,Easy
+75144,Challenging
+75147,Easy
+75148,Average
+75154,Average
+75155,Average
+75156,Average
+75159,Challenging
+75160,Easy
+75161,Easy
+75162,Very Easy
+75163,Very Easy
+75164,Very Easy
+75165,Easy
+75166,Very Easy
+75167,Very Easy
+75168,Easy
+75169,Easy
+75170,Easy
+75171,Easy
+75172,Average
+75173,Easy
+75174,Easy
+75175,Easy
+75176,Easy
+75177,Challenging
+75178,Easy
+75179,Average
+75180,Average
+75181,Very Challenging
+75182,Easy
+75183,Easy
+75184,Easy
+75185,Challenging
+75186,Challenging
+75187,Average
+75188,Average
+75189,Challenging
+75190,Average
+75191,Average
+75192,Challenging
+75193,Easy
+75194,Easy
+75195,Easy
+75196,Easy
+75197,Very Easy
+75198,Easy
+75199,Easy
+75200,Easy
+75201,Easy
+75202,Easy
+75204,Easy
+75205,Easy
+75206,Very Easy
+75207,Very Easy
+75208,Easy
+75210,Easy
+75211,Average
+75212,Average
+75523,Easy
+75524,Easy
+75525,Very Easy
+75526,Easy
+75528,Easy
+75529,Easy
+75530,Average
+75531,Very Easy
+75532,Challenging
+75533,Average
+75534,Average
+75536,Easy
+75821,Easy
+75822,Easy
+75823,Average
+75827,Challenging
+75828,Average
+75871,Easy
+75872,Average
+75877,Easy
+75878,Easy
+75879,Easy
+75880,Easy
+75881,Easy
+75883,Average
+75884,Easy
+75885,Average
+75886,Easy
+75887,Easy
+75888,Average
+75889,Average
+75927,Average
+75929,Average
+75930,Easy
+75931,Easy
+75932,Average
+76025,Easy
+76029,Very Easy
+76044,Easy
+76045,Average
+76052,Average
+76054,Easy
+76055,Average
+76056,Average
+76060,Average
+76067,Easy
+76068,Easy
+76069,Easy
+76070,Easy
+76071,Very Easy
+76072,Very Easy
+76073,Easy
+76075,Easy
+76076,Easy
+76077,Easy
+76078,Easy
+76079,Easy
+76080,Average
+76082,Easy
+76083,Average
+76084,Easy
+76085,Easy
+76086,Average
+76087,Average
+76088,Average
+76091,Easy
+76096,Average
+76097,Average
+76098,Easy
+76099,Easy
+76100,Average
+76101,Easy
+76102,Easy
+76103,Average
+76104,Easy
+76105,Average
+76107,Average
+76108,Average
+853638,Very Easy
+2000409,Easy
+2000414,Easy
+2000430,Easy
+2000431,Average
+75209,Challenging
+75926,Average
+10606,Very Easy
+10704,Challenging
+10715,Average
+10720,Very Easy
+10722,Easy
+10732,Very Easy
+10734,Easy
+10749,Easy
+10750,Very Easy
+10751,Easy
+10754,Easy
+10755,Easy
+10756,Very Easy
+10757,Very Easy
+10758,Easy
+10760,Easy
+10817,Very Easy
+10818,Very Easy
+10828,Very Easy
+10831,Very Easy
+10832,Very Easy
+10835,Very Easy
+10836,Easy
+10839,Very Easy
+10841,Very Easy
+10843,Very Easy
+10844,Very Easy
+10848,Very Easy
+10849,Very Easy
+10851,Very Easy
+10854,Easy
+10855,Very Easy
+10858,Very Easy
+10859,Very Easy
+10860,Very Easy
+10861,Very Easy
+10862,Very Easy
+10863,Very Easy
+10864,Very Easy
+10865,Very Easy
+10867,Very Easy
+10868,Very Easy
+10869,Easy
+10870,Very Easy
+10871,Very Easy
+10876,Very Easy
+10877,Very Easy
+10879,Very Easy
+10880,Very Easy
+21139,Very Easy
+21142,Average
+31060,Average
+31072,Easy
+41143,Very Easy
+41144,Very Easy
+41155,Easy
+41188,Challenging
+41194,Challenging
+41238,Average
+41239,Very Challenging
+41300,Easy
+41301,Easy
+41303,Very Easy
+41309,Very Easy
+41320,Average
+41330,Easy
+41332,Easy
+41333,Easy
+41339,Average
+41607,Easy
+41610,Easy
+42072,Easy
+45502,Very Easy
+45505,Very Easy
+45507,Very Easy
+45509,Very Easy
+45514,Very Easy
+60143,Average
+60168,Easy
+60171,Very Easy
+60172,Average
+60175,Average
+60188,Challenging
+70336,Very Easy
+70347,Easy
+70354,Average
+70361,Easy
+70362,Very Easy
+70363,Very Easy
+70365,Very Easy
+70366,Very Easy
+70633,Very Easy
+70634,Very Easy
+70636,Very Easy
+70640,Average
+70918,Easy
+71287,Very Easy
+71346,Easy
+72001,Easy
+72003,Average
+72005,Challenging
+75535,Easy
+75537,Easy
+75928,Average
+75933,Challenging
+76089,Very Easy
+76090,Very Easy
+853516,Very Easy
